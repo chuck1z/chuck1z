@@ -35,6 +35,8 @@ I'm a passionate Cloud Engineer with a strong interest in Google Cloud Platform 
 
 Feel free to reach out if you want to collaborate on a project, discuss cloud technologies, or just chat about tech in general. I'm always open to connecting with fellow cloud enthusiasts!
 
+## 📈 GitHub statistics
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck1z&hide=html,css,jupyter%20notebook&theme=vue&layout=compact"/>
           
 <!--
