@@ -1,6 +1,4 @@
-### Hi there `_chuck 1z here`.
-
-# 👋 Hello, I'm [Your Name]
+# 👋 Hi there `_chuck 1z here`.
 
 I'm a passionate Cloud Engineer with a strong interest in Google Cloud Platform (GCP), AWS, and Azure. I'm constantly exploring and learning about cloud technologies and infrastructure as code.
 
