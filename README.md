@@ -9,13 +9,7 @@ I'm a passionate Cloud Engineer with a strong interest in Google Cloud Platform 
 - ☁️ Some experience with Azure services such as Azure VMs and Azure Blob Storage.
 - 🛠️ Infrastructure as Code (IAC) using Terraform and Cloud Deployment Manager.
 - 🐍 Scripting with Python for automation and cloud tasks.
-- 🧪 Continuous Integration and Deployment (CI/CD) with tools like Jenkins and GitHub Actions.
-
-## 🌱 Current Projects
-
-- 🚀 Building a scalable web application on GCP using Kubernetes.
-- 📊 Analyzing large datasets with BigQuery to derive actionable insights.
-- 🌐 Implementing multi-cloud strategies for high availability and disaster recovery.
+- 🧪 Continuous Integration and Deployment (CI/CD) with tools like Cloud Build and GitHub Actions.
 
 ## 📚 Learning Goals
 
