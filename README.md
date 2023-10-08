@@ -10,7 +10,7 @@ Me believe me on many platforms, if me not there please don't take that username
 
 Otherwise me will be discouraged to make an account there :(
 
-### Here my GitHub statistic if you fancy
+### Here me GitHub statistic if you fancy
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck1z&hide=html,css,jupyter%20notebook&theme=vue&layout=compact"/>
           
 <!--
