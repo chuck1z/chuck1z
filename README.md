@@ -1,34 +1,16 @@
 # 👋 Hi there `_chuck1z` here.
 
-I'm a passionate Cloud Engineer with a strong interest in Google Cloud Platform (GCP), AWS, and Azure. I'm constantly exploring and learning about cloud technologies and infrastructure as code.
+Me likey cloud stuff (especially if they're free!). 
 
-## 🔧 Technologies and Tools
+Me put things I find interesting on me YouTube channel: [_chuck1z](https://www.youtube.com/@_chuck1z)
 
-- 💻 Proficient in GCP, including Compute Engine, Kubernetes Engine, Cloud Storage, and BigQuery.
-- 🌐 Familiar with AWS services like EC2, S3, and Lambda.
-- ☁️ Some experience with Azure services such as Azure VMs and Azure Blob Storage.
-- 🛠️ Infrastructure as Code (IAC) using Terraform and Cloud Deployment Manager.
-- 🐍 Scripting with Python for automation and cloud tasks.
-- 🧪 Continuous Integration and Deployment (CI/CD) with tools like Cloud Build and GitHub Actions.
+Dox me by searching for my username: `_chuck1z`. 
 
-## 📚 Learning Goals
+Me believe me on many platforms, if me not there please don't take that username :(
 
-- 🌐 Deepening my knowledge of networking in the cloud.
-- 🧰 Exploring serverless computing and microservices architectures.
-- 📜 Earning more cloud certifications to demonstrate expertise.
+Otherwise me will be discouraged to make an account there :(
 
-## 📫 Get in Touch
-
-- 📧 Email: [adritheman@gmail.com](mailto:adritheman@gmail.com)
-- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/chuck1z/)
-- 📺 YouTube: [_chuck1z](https://www.youtube.com/@_chuck1z)
-
-## 💬 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project, discuss cloud technologies, or just chat about tech in general. I'm always open to connecting with fellow cloud enthusiasts!
-
-## 📈 GitHub statistics
-
+### Here my GitHub statistic if you fancy
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck1z&hide=html,css,jupyter%20notebook&theme=vue&layout=compact"/>
           
 <!--
