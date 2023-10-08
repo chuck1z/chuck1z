@@ -27,8 +27,8 @@ I'm a passionate Cloud Engineer with a strong interest in Google Cloud Platform 
 
 ## 📫 Get in Touch
 
-- 📧 Email: [your@email.com](mailto:your@email.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- 📧 Email: [adritheman@gmail.com](mailto:adritheman@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chuck1z/)
 - 🌐 Portfolio: [Your Portfolio Website](https://yourwebsite.com)
 
 ## 💬 Let's Connect
