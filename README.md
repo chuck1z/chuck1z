@@ -21,7 +21,7 @@ I'm a passionate Cloud Engineer with a strong interest in Google Cloud Platform 
 
 - 📧 Email: [adritheman@gmail.com](mailto:adritheman@gmail.com)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chuck1z/)
-- 📺 YouTube: [My YouTube channel](https://www.youtube.com/@_chuck1z)
+- 📺 YouTube: [_chuck1z](https://www.youtube.com/@_chuck1z)
 
 ## 💬 Let's Connect
 
