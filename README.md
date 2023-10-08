@@ -1,10 +1,10 @@
 # 👋 Hi there `_chuck1z` here.
 
-Me likey cloud stuff (especially if they're free!). 
+Me likey cloud stuff <sub> especially if they're free!</sub> 
 
 Me put things I find interesting on me YouTube channel: [_chuck1z](https://www.youtube.com/@_chuck1z)
 
-Dox me by searching for my username: `_chuck1z`. 
+Dox me by searching for my username: `_chuck1z`
 
 Me believe me on many platforms, if me not there please don't take that username :(
 
