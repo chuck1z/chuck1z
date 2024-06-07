@@ -3,7 +3,7 @@
 Me likey cloud stuff <sub> especially if it's free!</sub> <br>
 Me put things I find interesting on me YouTube channel: [_chuck1z](https://www.youtube.com/@_chuck1z) <br>
 Dox me by searching for my username: `_chuck1z` <br>
-Me believe me on many platforms, if me not there please don't take that username :( <br>
+Me believe me on many platforms, if me not there please don't take that username <br>
 Otherwise me will be discouraged to make an account there :( <br>
 
 ### Here me GitHub statistic if you fancy
